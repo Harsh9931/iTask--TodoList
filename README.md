@@ -1,8 +1,12 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Just built iTask, a to-do list app! 📝
 
-Currently, two official plugins are available:
+Faced a couple of challenges: 1️⃣ JSON undefined error: Had to ensure localStorage data was properly initialized to avoid parsing null. 2️⃣ isCompleted not defined error: A quick fix in state management solved this.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deepened my understanding of the useEffect hook, localStorage, and handling state in React. 💻
+
+🔄 The edit and delete buttons are fully functional, and the "Show Finished" option lets you view completed tasks, which get a line-through effect when checked!
+
+🎥 Check out the demo! 👇
+
+#LearnInPublic #ReactJS #WebDev #100DaysOfCode #CodeNewbie
