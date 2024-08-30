@@ -1,7 +1,7 @@
 {
   "homepage" : "https://harsh9931.github.io/iTask--TodoList/",
   "name": "vite-project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
