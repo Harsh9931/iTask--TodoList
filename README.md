@@ -7,6 +7,4 @@ Deepened my understanding of the useEffect hook, localStorage, and handling stat
 
 🔄 The edit and delete buttons are fully functional, and the "Show Finished" option lets you view completed tasks, which get a line-through effect when checked!
 
-🎥 Check out the demo! 👇
-
 #LearnInPublic #ReactJS #WebDev #100DaysOfCode #CodeNewbie
